@@ -1,0 +1,21 @@
+{
+  "name": "ytdownload",
+  "version": "1.0.0",
+  "description": "Easily download youtube videos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ved",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.10.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsx": "^0.9.89",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "tailwindcss": "^2.2.15",
+    "ytdl-core": "^4.9.1"
+  }
+}
